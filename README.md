@@ -1,2 +1,4 @@
 # solar_tracker
-control system for solar tracker system
+control system modules for solar tracker system.
+
+Auth. aldo N√√ez Tovar
